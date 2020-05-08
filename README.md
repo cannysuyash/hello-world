@@ -1,2 +1,6 @@
 # hello-world
-This is demo repository
+
+
+print('Hello World.')
+op=input('Type new password:')
+print(op+' is your password')
